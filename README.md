@@ -34,7 +34,7 @@ This is a collaborative “Watch Party” app that lets a distributed group of u
 
 ### Required Unit Tests
 
-- [ ] **Creating a session**. Any user should be able to create a session to watch a given Youtube video.
+- [x] **Creating a session**. Any user should be able to create a session to watch a given Youtube video.
 - [ ] **Joining a session**. Any user should be able to join a session created by another user using the shareable session link.
 - [ ] **Playing/pausing** the video. When a participant pauses the video, it should pause for everyone. When a participant plays the video, it should start playing for everyone.
 - [ ] **“Seek”**. When someone jumps to a certain time in the video it should jump to that time for everyone.
